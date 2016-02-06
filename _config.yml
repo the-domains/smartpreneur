@@ -1,6 +1,6 @@
 name: Smartpreneur
 favicon: null
-layout_spectrum: 0.5504831946454942
+layout_spectrum: 0.75916
 typography_spectrum: 0.8658523762132972
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#e68f44'
+    - '#a7a9ac'
+    - '#dcddde'
+    - '#ecac75'
   brandStrength: 0.7341741961427033
   lightness: 0.5722598300781101
   saturation: 0.9356465900782496
